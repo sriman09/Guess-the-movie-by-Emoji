@@ -1,3 +1,47 @@
+# 🎬 Guess The Movie By Emoji - https://guess-the-movie-by-emoji.vercel.app
+
+Test your movie knowledge in the most fun way — by guessing the **movie name from a sequence of emojis!** 🍿🎭  
+A fun and interactive web app built using **Next.js** where users try to decode movie titles represented only through emojis.
+
+---
+
+## 🧠 About The Project
+
+This project is a simple yet entertaining web app that challenges users to identify movie names based on emoji clues.  
+It’s inspired by those viral “Guess the Movie 🎥” games — rebuilt using modern web tech as a part of my personal learning journey.
+
+---
+
+## ✨ Features
+
+- 🎯 **Guess the Movie**: Decode emoji puzzles and type your answer  
+- 🧩 **Instant Feedback**: See if your guess is correct in real-time  
+- 🔄 **Next Challenge**: Skip or move to the next emoji puzzle  
+- 💡 **Responsive UI**: Fully mobile-friendly design  
+- 💾 **State Management**: Tracks your score and progress  
+- 🎨 **Clean & Minimal UI** built with modern styling
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|-----------|--------------|
+| **Frontend** | Next.js, React |
+| **Styling** | Tailwind CSS |
+| **State Management** | React Hooks / Context API |
+| **Deployment** | Vercel |
+
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the repo
+```bash
+git clone https://github.com/YOUR_USERNAME/guess-the-movie.git
+cd guess-the-movie
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
